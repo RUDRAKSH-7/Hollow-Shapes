@@ -2,7 +2,9 @@
 
 This module can be used to create hollow shapes in pyglet, like in pygame.
 
-USAGE: 1. the x,y coordinates should be mention with of without assignment operator 
+USAGE: 
+
+       1. the x,y coordinates should be mention with of without assignment operator 
 
        2. width and height must be entered for the rectangle.
        
