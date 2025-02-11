@@ -2,6 +2,8 @@
 
 This module can be used to create hollow shapes in pyglet, like in pygame.
 
+MORE SHAPES IN DEVELOPMENT!
+
 USAGE: 
 
        1. the x,y coordinates should be mention with of without assignment operator 
