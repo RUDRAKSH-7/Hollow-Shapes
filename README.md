@@ -6,7 +6,7 @@ MORE SHAPES IN DEVELOPMENT!
 
 USAGE: 
 
-       1. the x,y coordinates should be mention with of without assignment operator 
+       1. the x,y coordinates should be mention with or without assignment operator 
 
        2. width and height must be entered for the rectangle.
        
